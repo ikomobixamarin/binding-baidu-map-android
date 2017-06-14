@@ -14,11 +14,14 @@
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
     <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
     <AndroidTlsProvider></AndroidTlsProvider>
-    <PackageId>Ikomobi.BMapBinding.Droid</PackageId>
-    <PackageVersion>1</PackageVersion>
+    <PackageId>Ikomobi.BindingBaiduLBS.Droid</PackageId>
+    <PackageVersion>1.0.1</PackageVersion>
     <Authors>Ikomobi</Authors>
-    <Description>Ikomobi.BMapBinding.Droid</Description>
+    <Description>Binding BaiduLBS_Android_v4_2_1</Description>
     <PackOnBuild>true</PackOnBuild>
+    <PackageProjectUrl>https://github.com/ikomobixamarin/binding-baidu-map-android</PackageProjectUrl>
+    <PackageTags>binding android baidu map</PackageTags>
+    <Title>Binding BaiduLBS_Android_v4_2_1</Title>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
